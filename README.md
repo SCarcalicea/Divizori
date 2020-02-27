@@ -4,7 +4,7 @@
    Fisierul de intrare "divizori.in" contine pe prima linie numarul n separat printr-un spatiu de un numar natural t, care reprezinta cerinta: 1, daca se cere numarul de secvente speciale, respectiv 2 daca se cere cea mai lunga secventa speciala. Linia a doua din fisier contine cele n numere naturale ale sirului dat.
    Fisierul de iesire "divizori.out" va contine pe prima linie un numar natural ce reprezinta numarul de secvente speciale, pentru sirul de numere dar, daca cerinta este 1. Daca cerinta este 2, fisierul de iesire va contine un sir de numere naturale, separate intre ele prin cate un spatiu ce reprezinta cea mai lunga secventa speciala din sirul dat.
    
-   Exemplu 1
+   Exemplu 1 </br>
    Divizori.in
    7 1
    22 60 64 125 315 24 150
